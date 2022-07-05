@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2750773-fdfc-4231-b7ee-9f0f35edd030": {
+      "ProjectGuid": "d2750773-fdfc-4231-b7ee-9f0f35edd030",
+      "DisplayName": "Halo Api Test Console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

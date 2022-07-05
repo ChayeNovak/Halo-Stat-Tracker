@@ -1,0 +1,29 @@
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\Halo Api Test Console.exe.config
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\Halo Api Test Console.exe
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\Halo Api Test Console.pdb
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\obj\Debug\Halo Api Test Console.csproj.AssemblyReference.cache
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\obj\Debug\Halo Api Test Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\obj\Debug\Halo Api Test Console.csproj.CoreCompileInputs.cache
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\obj\Debug\Halo Api Test Console.exe
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\obj\Debug\Halo Api Test Console.pdb
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Buffers.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Memory.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Text.Json.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.ValueTuple.dll
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Buffers.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Memory.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Text.Json.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\bin\Debug\System.ValueTuple.xml
+C:\Users\Chaye Novak\VS2022Projects\Halo Api Test Console\obj\Debug\Halo Api Test Console.csproj.CopyComplete
